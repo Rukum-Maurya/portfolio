@@ -1,6 +1,7 @@
 {
   "name": "portfolio",
   "private": true,
+  "homepage": "https://rukum-maurya.github.io/portfolio",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -30,3 +31,4 @@
     "vite": "^7.0.4"
   }
 }
+
