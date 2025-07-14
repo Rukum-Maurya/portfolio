@@ -61,12 +61,15 @@ function App() {
             <span>LinkedIn</span>
           </a>
           <a
-  href="/Resume_RUKUM.pdf"
-  download
-  className="bg-indigo-600 text-white px-6 py-2 rounded-xl hover:bg-indigo-700 transition"
+  href="https://drive.google.com/uc?export=download&id=1HipV8AFztsbUpxI5e9XzyXSrzjCrDTEF"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="bg-indigo-600 hover:bg-indigo-700 text-white px-6 py-2 rounded-xl transition"
 >
   📄 Download Resume
 </a>
+
+
 
         </div>
       </section>
