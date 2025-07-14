@@ -58,15 +58,16 @@ function App() {
             rel="noreferrer"
             className="bg-white text-indigo-600 px-6 py-2 rounded-xl font-semibold hover:scale-105 transition"
           >
-            LinkedIn
+            <span>LinkedIn</span>
           </a>
           <a
-            href="/Resume_RUKUM.pdf"
-            download
-            className="bg-white text-indigo-600 px-6 py-2 rounded-xl font-semibold hover:scale-105 transition"
-          >
-            Download Resume
-          </a>
+  href="/Resume_RUKUM.pdf"
+  download
+  className="bg-indigo-600 text-white px-6 py-2 rounded-xl hover:bg-indigo-700 transition"
+>
+  📄 Download Resume
+</a>
+
         </div>
       </section>
 
